@@ -89,6 +89,5 @@ const questions=[
         D: "B5",
         answer: "A",
       },
-
 ];
 module.exports=questions;
