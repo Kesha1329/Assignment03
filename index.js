@@ -9,10 +9,10 @@ let gray = chalk.bold.gray;
 let red = chalk.bold.red;
 let cyan = chalk.bold.cyan;
 let yellow = chalk.bold.yellow;
-let orange = chalk.black.bold.bgOrange;
+let title = chalk.black.bold.bgOrange;
 let magenta =chalk.bold.magenta;
 
-console.log(orange("--: Welcome to Exercise Quiz On Health And Fitness :-- \n"));
+console.log(title("--: Welcome to Exercise Quiz On Health And Fitness :-- \n"));
 let user = rs.question("Enter Your Name : ");
 console.log(green(`\n Hello ${user}`));
 
