@@ -9,7 +9,7 @@ let gray = chalk.bold.gray;
 let red = chalk.bold.red;
 let cyan = chalk.bold.cyan;
 let yellow = chalk.bold.yellow;
-let title = chalk.black.bold.bgOrange;
+let title = chalk.black.bold.bgYellow;
 let magenta =chalk.bold.magenta;
 
 console.log(title("--: Welcome to Exercise Quiz On Health And Fitness :-- \n"));
