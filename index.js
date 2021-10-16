@@ -17,7 +17,7 @@ let pink =chalk.bold.magenta;
 
 
 
-console.log(title("Welcome to Funny Quiz \n"));
+console.log(title("Welcome to Quiz \n"));
 let user = rs.question("Enter Your Name : ");
 console.log(green(`Hello ${user}`));
 
