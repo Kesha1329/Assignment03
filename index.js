@@ -12,7 +12,7 @@ let yellow = chalk.bold.yellow;
 let title = chalk.black.bold.bgYellow;
 let magenta =chalk.bold.magenta;
 
-console.log(title("--: Welcome to Exercise Quiz On Health And Fitness :-- \n"));
+console.log(title("\n--: Welcome to Exercise Quiz On Health And Fitness :-- \n"));
 let user = rs.question("Enter Your Name : ");
 console.log(green(`\n Hello ${user}`));
 
